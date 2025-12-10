@@ -2,7 +2,7 @@
 
 I work as an **Associate QA Engineer** at **Arsys (Spain)**
 
-I have knowledge of **development**, **devops**, and **sysadmin**
+I have knowledge of **development**, **devops** and **sysadmin**
 
 ## Skills
 
